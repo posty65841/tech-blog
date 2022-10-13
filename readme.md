@@ -29,10 +29,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-this project allows a user to track, create, and update employees connected to a mySQL data base via the command line 
-some extra features of this application include 
-the ability to view all employees , view all job roles and the salary associated with said role.
-the application also allows the user to view who a certain employee reports to.
+this project is a tech blog that connects to a database which saves entries, usernames, passwords, and emails 
+not only does this site save passwords and emails, but it also keeps them safe and secure 
+this site allows users to create and delete posts while showing the date the post was created. 
  
 
 
@@ -44,6 +43,6 @@ the application also allows the user to view who a certain employee reports to.
 
 Austin Post  - austin.post.ap@gmail.com
 
-repo - 
+repo - https://github.com/posty65841/tech-blog
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
