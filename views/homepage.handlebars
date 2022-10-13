@@ -3,8 +3,10 @@
 <div class="row mb-4 posts">
   <div class="col-md-5">
     
-   
-    <p>Created by {{post.user.name}} on {{format_date post.date_created}}</p>
+   <h2>
+    <a href="/post/{{post.id}}">{{post.name}}</a>
+   </h2>
+    <p>Posted by {{post.user.name}} on {{format_date post.date_created}}</p>
   </div>
   <div class="col-md-7">
     <p>
